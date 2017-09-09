@@ -55,7 +55,7 @@ namespace pr {
 		m_window = std::make_unique<sf::RenderWindow>(sf::VideoMode{
 			static_cast<unsigned int>(m_screenSize.x),
 			static_cast<unsigned int>(m_screenSize.y)
-		}, "Project Rogue - Map Viewer");
+		}, "Project Rogue's Map Viewer");
 		m_window->setVerticalSyncEnabled(true);
 		m_window->setView(*m_view);
 		m_window->resetGLStates();
