@@ -1,0 +1,9 @@
+﻿  TiledMap.cpp
+     Creating library C:\Users\Marc Dumoulin\documents\cpp\PRMapViewer\Release\PRMapViewer.lib and object C:\Users\Marc Dumoulin\documents\cpp\PRMapViewer\Release\PRMapViewer.exp
+  Generating code
+  2 of 2811 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PRMapViewer.vcxproj -> C:\Users\Marc Dumoulin\documents\cpp\PRMapViewer\Release\PRMapViewer.exe
+  PRMapViewer.vcxproj -> C:\Users\Marc Dumoulin\documents\cpp\PRMapViewer\Release\PRMapViewer.pdb (Full PDB)
